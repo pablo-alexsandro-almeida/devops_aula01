@@ -1,0 +1,7 @@
+Requisitos de implantação
+1 Hospedagem - (Azure)
+2 Hardware - 32 Ram 16 CPU
+3 Servidor de aplicação ( Debian 9 64 - Apache )
+4 servidor de dados ( debian 9 64 - Mysql )
+5 Dominio de DNS
+
