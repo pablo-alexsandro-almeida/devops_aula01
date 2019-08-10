@@ -1,0 +1,7 @@
+Requisitos 
+1- O BankImpacta tem por responsabilidade facilitar e agilizar o meio de pagamentos com instituições,
+REceber especies("Depositos, transferencias, Moedas digitais entre outros"), efetuar saques, pagamentos de contas
+("Diferenciação integração com as instituições financeiras, assim que forem gerados debitos, será feito de forma automatica
+o debito com a confirmação do usuario.
+Segurança:
+ 		O aplicativo estará em conformidade com todos os metodos de seguranças!;
