@@ -1,0 +1,4 @@
+if(cadastro == true){
+	Console.Write("Ok, Seja bem vindo !");
+}else{
+	Console.Write("Negado");
